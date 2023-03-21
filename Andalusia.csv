@@ -1,0 +1,724 @@
+1,Añora,38.41667,-4.9
+2,Abla,37.14245,-2.77808
+3,Abrucena,37.13226,-2.79711
+4,Adamuz,38.02674,-4.52231
+5,Adra,36.74961,-3.02055
+6,Agrón,37.03023,-3.8287
+7,Aguadulce,37.25273,-4.99269
+8,Aguilar,37.51476,-4.65717
+9,Alameda,37.2087,-4.6586
+10,Alamedilla,37.58232,-3.24241
+11,Alanís,38.03333,-5.71667
+12,Alájar,37.87408,-6.66536
+13,Albaida del Aljarafe,37.42354,-6.16675
+14,Albánchez,37.28361,-2.18229
+15,Albolote,37.23088,-3.6551
+16,Albondón,36.8277,-3.21144
+17,Albox,37.38856,-2.14949
+18,Albuñán,37.22708,-3.13321
+19,Albuñol,36.79203,-3.205
+20,Albuñuelas,36.92828,-3.63184
+21,Alcalá de Guadaira,37.33791,-5.83951
+22,Alcalá de los Gazules,36.46212,-5.72382
+23,Alcalá del Río,37.5178,-5.98185
+24,Alcalá del Valle,36.90448,-5.1724
+25,Alcalá la Real,37.4614,-3.92301
+26,Alcaracejos,38.38333,-4.96667
+27,Alcaucín,36.90301,-4.11406
+28,Alcaudete,37.59091,-4.08237
+29,Alcóntar,37.33647,-2.59725
+30,Alcolea,36.97458,-2.9615
+31,Alcolea del Río,37.61506,-5.66694
+32,Alcudia de Monteagud,37.23529,-2.2665
+33,Aldeaquemada,38.41215,-3.37137
+34,Aldeire,37.16012,-3.07204
+35,Alfacar,37.23744,-3.56807
+36,Alfarnate,36.99426,-4.25929
+37,Alfarnatejo,36.9957,-4.26064
+38,Algar,36.65748,-5.65558
+39,Algarinejo,37.32526,-4.1585
+40,Algarrobo,36.77388,-4.03952
+41,Algatocín,36.57356,-5.27554
+42,Algámitas,37.01516,-5.14949
+43,Algeciras,36.13326,-5.45051
+44,Algodonales,36.88044,-5.40536
+45,Alhabia,36.99003,-2.58655
+46,Alhama de Almería,36.95692,-2.56861
+47,Alhama de Granada,37.00689,-3.98963
+48,Alhaurín de la Torre,36.66401,-4.56139
+49,Alhaurín el Grande,36.643,-4.68728
+50,Alhendín,37.10879,-3.64557
+51,Alicún,36.9658,-2.60212
+52,Alicún de Ortega,37.60898,-3.13648
+53,Aljaraque,37.26989,-7.02313
+54,Almadén de la Plata,37.87221,-6.08085
+55,Almargen,37.0021,-5.02178
+56,Almáchar,36.80892,-4.21614
+57,Almócita,37.00262,-2.79051
+58,Almedinilla,37.43902,-4.09052
+59,Almegíjar,36.90258,-3.30122
+60,Almensilla,37.31099,-6.10998
+61,Almería,37.16667,-2.33333
+62,Almodóvar del Río,37.8107,-5.02037
+63,Almogía,36.8255,-4.5407
+64,Almonte,37.2647,-6.51667
+65,Almuñécar,36.73393,-3.69072
+66,Alora,36.82358,-4.70575
+67,Alosno,37.54861,-7.1147
+68,Alozaina,36.72736,-4.85761
+69,Alpandeire,36.63402,-5.20216
+70,Alquife,37.18024,-3.11553
+71,Alsodux,37.00247,-2.59476
+72,Andújar,38.03922,-4.05077
+73,Antas,37.24536,-1.9176
+74,Antequera,37.01938,-4.56123
+75,Aracena,37.89396,-6.56116
+76,Arboleas,37.35024,-2.07384
+77,Archidona,37.09654,-4.38869
+78,Arcos de la Frontera,36.75075,-5.81056
+79,Ardales,36.87804,-4.84694
+80,Arenas,36.81625,-4.04411
+81,Arenas del Rey,36.95799,-3.89362
+82,Arjona,37.93493,-4.05478
+83,Arjonilla,37.97422,-4.10677
+84,Armilla,37.14386,-3.62534
+85,Armuña de Almanzora,37.3503,-2.4115
+86,Aroche,37.94213,-6.9576
+87,Arquillos,38.18148,-3.42827
+88,Arriate,36.80005,-5.1408
+89,Arroyo del Ojanco,38.32065,-2.89486
+90,Arroyomolinos de León,38.01667,-6.41667
+91,Úbeda,38.01328,-3.3705
+92,Atajate,36.64017,-5.24606
+93,Atarfe,37.22479,-3.68686
+94,Ayamonte,37.21329,-7.40807
+95,Aznalcázar,37.30422,-6.24963
+96,Aznalcóllar,37.51914,-6.26988
+97,Árchez,36.83992,-3.99208
+98,Ítrabo,36.79998,-3.63899
+99,Órgiva,36.90259,-3.42379
+100,Écija,37.5422,-5.0826
+101,Baños de la Encina,38.17379,-3.77477
+102,Badolatosa,37.30785,-4.67296
+103,Baena,37.6167,-4.32245
+104,Baeza,37.99384,-3.47103
+105,Bailén,38.09639,-3.77786
+106,Barbate,36.19237,-5.92186
+107,Bayarque,37.33062,-2.4361
+108,Bayárcal,37.03073,-2.99606
+109,Baza,37.49073,-2.77259
+110,Bédar,37.19389,-1.98166
+111,Bélmez,38.26667,-5.2
+112,Bélmez de la Moraleda,37.72382,-3.38207
+113,Bérchules,36.97678,-3.19067
+114,Beas,37.4257,-6.79318
+115,Beas de Granada,37.21803,-3.48095
+116,Beas de Guadix,37.27861,-3.20579
+117,Beas de Segura,38.2524,-2.88875
+118,Begíjar,37.98492,-3.53094
+119,Beires,37.01237,-2.79134
+120,Belalcázar,38.57566,-5.16653
+121,Benacazón,37.35289,-6.19663
+122,Benahadux,36.92493,-2.45941
+123,Benahavís,36.52361,-5.04631
+124,Benalauría,36.59445,-5.26099
+125,Benalúa de Guadix,37.35191,-3.16404
+126,Benalúa de las Villas,37.42742,-3.68346
+127,Benalmádena,36.5961,-4.57267
+128,Benalup-Casas Viejas,36.34375,-5.8128
+129,Benamargosa,36.83499,-4.19362
+130,Benamaurel,37.60826,-2.7025
+131,Benamejí,37.26833,-4.54123
+132,Benamocarra,36.79075,-4.16146
+133,Benaocaz,36.70069,-5.42222
+134,Benaoján,36.71929,-5.2522
+135,Benarrabá,36.5512,-5.27608
+136,Benatae,38.35323,-2.65121
+137,Benitagla,37.23138,-2.23935
+138,Benizalón,37.21213,-2.2418
+139,Bentarique,36.98823,-2.61991
+140,Berja,36.84693,-2.94966
+141,Berrocal,37.60863,-6.54147
+142,Bollullos de la Mitación,37.34014,-6.13719
+143,Bollullos par del Condado,37.34127,-6.5397
+144,Bonares,37.32423,-6.68073
+145,Bormujos,37.37358,-6.07233
+146,Bornos,36.81677,-5.74448
+147,Brenes,37.54944,-5.87139
+148,Bubión,36.949,-3.35615
+149,Bujalance,37.89556,-4.38074
+150,Burguillos,37.5844,-5.96654
+151,Busquístar,36.93796,-3.29444
+152,Cañada Rosal,37.59924,-5.21016
+153,Cañaveral de León,38.01667,-6.51667
+154,Cañete de las Torres,37.86717,-4.31835
+155,Cañete la Real,36.95154,-5.0244
+156,Cabezas Rubias,37.7266,-7.08738
+157,Cabra,37.47249,-4.44206
+158,Cabra del Santo Cristo,37.70379,-3.28765
+159,Cadiz,36.52672,-6.2891
+160,Cala,37.96667,-6.31667
+161,Calañas,37.65568,-6.8805
+162,Calicasas,37.2713,-3.61345
+163,Camas,37.40202,-6.03314
+164,Cambil,37.67934,-3.56537
+165,Campiña,38.21896,-2.98069
+166,Campillo de Arenas,37.55535,-3.63552
+167,Campillos,37.04826,-4.86308
+168,Campotéjar,37.48235,-3.61771
+169,Canena,38.0493,-3.4831
+170,Caniles,37.43671,-2.72482
+171,Canillas de Aceituno,36.87303,-4.08254
+172,Canillas de Albaida,36.84665,-3.98678
+173,Canjáyar,37.00959,-2.73943
+174,Cantillana,37.61032,-5.82472
+175,Cantoria,37.35146,-2.19209
+176,Capileira,36.96148,-3.35864
+177,Carataunas,36.92204,-3.40834
+178,Carboneras,36.99666,-1.89651
+179,Carboneros,38.22958,-3.63139
+180,Carcabuey,37.4442,-4.27471
+181,Cardeña,38.27023,-4.32358
+182,Carmona,37.47125,-5.64608
+183,Carratraca,36.8529,-4.81998
+184,Carrión de los Céspedes,37.37007,-6.32923
+185,Cartajima,36.64548,-5.1541
+186,Cartaya,37.28114,-7.15071
+187,Casabermeja,36.8926,-4.42938
+188,Casarabonela,36.78616,-4.84276
+189,Casares,36.44689,-5.2858
+190,Casariche,37.29389,-4.75972
+191,Castell de Ferro,36.72569,-3.355
+192,Castellar de la Frontera,36.31736,-5.45407
+193,Castellar de Santisteban,38.25422,-3.13179
+194,Castilblanco de los Arroyos,37.67576,-5.98886
+195,Castilléjar,37.71697,-2.6406
+196,Castilleja de Guzmán,37.40955,-6.05515
+197,Castilleja de la Cuesta,37.38594,-6.05258
+198,Castilleja del Campo,37.38627,-6.33443
+199,Castillo de Locubín,37.52858,-3.9422
+200,Castril,37.79581,-2.78002
+201,Castro de Filabres,37.18484,-2.44024
+202,Castro del Río,37.69125,-4.48058
+203,Cazalilla,37.98389,-3.88295
+204,Cazalla de la Sierra,37.93333,-5.75
+205,Cazorla,37.91495,-3.00342
+206,Cáñar,36.92684,-3.42808
+207,Cádiar,36.94591,-3.1802
+208,Cájar,37.13381,-3.57274
+209,Cártama,36.71068,-4.63297
+210,Cástaras,36.93164,-3.25406
+211,Cóbdar,37.26166,-2.21098
+212,Cómpeta,36.83352,-3.9743
+213,Córdoba,37.89155,-4.77275
+214,Cúllar-Vega,37.15361,-3.67072
+215,Cútar,36.83134,-4.22739
+216,Cenes de la Vega,37.16006,-3.53548
+217,Chauchina,37.19977,-3.77157
+218,Chercos,37.2545,-2.26657
+219,Chiclana de la Frontera,36.41976,-6.14367
+220,Chiclana de Segura,38.31187,-3.04219
+221,Chilluévar,38.00088,-3.0324
+222,Chimeneas,37.13125,-3.8213
+223,Chipiona,36.73663,-6.43703
+224,Chirivel,37.59527,-2.26844
+225,Chucena,37.36305,-6.39304
+226,Churriana de la Vega,37.14499,-3.64617
+227,Cijuela,37.198,-3.81174
+228,Coín,36.65947,-4.75639
+229,Cogollos de Guadix,37.22521,-3.16094
+230,Colmenar,36.90519,-4.33557
+231,Colomera,37.37156,-3.71393
+232,Comares,36.84929,-4.24664
+233,Conil de la Frontera,36.27719,-6.0885
+234,Conquista,38.4,-4.5
+235,Constantina,37.86667,-5.61667
+236,Coria del Río,37.28766,-6.0541
+237,Coripe,36.97335,-5.44022
+238,Corteconcepción,37.9,-6.5
+239,Cortelazor,37.93639,-6.62462
+240,Cortes de Baza,37.65514,-2.77167
+241,Cortes de la Frontera,36.6171,-5.34266
+242,Costacabana,36.83807,-2.38111
+243,Cuevas Bajas,37.23526,-4.48714
+244,Cuevas de San Marcos,37.26666,-4.41432
+245,Cuevas del Almanzora,37.29678,-1.88218
+246,Cuevas del Becerro,36.87537,-5.04488
+247,Cuevas del Campo,37.60755,-2.92938
+248,Cumbres Mayores,38.06194,-6.64565
+249,Dalías,36.82179,-2.87138
+250,Darro,37.34987,-3.29465
+251,Dílar,37.07282,-3.60134
+252,Dúdar,37.18579,-3.48347
+253,Dúrcal,36.98788,-3.56601
+254,Dehesas de Guadix,37.58876,-3.10317
+255,Deifontes,37.3262,-3.59568
+256,Diezma,37.31982,-3.33256
+257,Doña Mencía,37.55346,-4.35602
+258,Domingo Pérez,37.49591,-3.50929
+259,Dos Hermanas,37.28287,-5.92088
+260,Dos Torres,38.45,-4.9
+261,El Arahal,37.26273,-5.5453
+262,El Bosque,36.75828,-5.50535
+263,El Carpio,37.94085,-4.49696
+264,El Castillo de las Guardas,37.69314,-6.31503
+265,El Cerro de Andévalo,37.73537,-6.93692
+266,El Coronil,37.07955,-5.6341
+267,El Cuervo,36.85298,-6.03785
+268,El Ejido,36.77629,-2.81456
+269,El Gastor,36.85478,-5.32334
+270,El Puerto de Santa María,36.59389,-6.23298
+271,El Rompido,37.21773,-7.12206
+272,El Ronquillo,37.72628,-6.1762
+273,El Rubio,37.35617,-4.98896
+274,El Saucejo,37.07237,-5.09818
+275,El Varadero,36.72521,-3.52183
+276,El Viso,38.48333,-4.95
+277,El Viso del Alcor,37.39106,-5.71993
+278,Encinas Reales,37.27419,-4.48828
+279,Encinasola,38.13413,-6.86675
+280,Enix,36.87732,-2.6018
+281,Escañuela,37.87885,-4.03376
+282,Escacena del Campo,37.40837,-6.3887
+283,Escúzar,37.06219,-3.76126
+284,Espartinas,37.38154,-6.12578
+285,Espejo,37.6798,-4.55355
+286,Espelúy,38.0318,-3.86309
+287,Espera,36.87446,-5.806
+288,Espiel,38.2,-5.01667
+289,Estación de Cártama,36.73333,-4.61667
+290,Estepa,37.29263,-4.87896
+291,Estepona,36.42764,-5.14589
+292,Faraján,36.61695,-5.18839
+293,Fernán-Núñez,37.67044,-4.7264
+294,Ferreira,37.17247,-3.03539
+295,Fiñana,37.1715,-2.84011
+296,Fines,37.36074,-2.2581
+297,Fondón,36.9802,-2.85957
+298,Fonelas,37.41042,-3.17158
+299,Frailes,37.48617,-3.83743
+300,Freila,37.5299,-2.90828
+301,Frigiliana,36.78747,-3.89441
+302,Fuengirola,36.53998,-4.62473
+303,Fuensanta de Martos,37.64756,-3.90846
+304,Fuente de Piedra,37.13526,-4.73
+305,Fuente la Lancha,38.41667,-5.03333
+306,Fuente Obejuna,38.26667,-5.41667
+307,Fuente Palmera,37.70494,-5.09965
+308,Fuente Vaqueros,37.22019,-3.78294
+309,Fuente-Tójar,37.51095,-4.14631
+310,Fuenteheridos,37.90545,-6.66108
+311,Fuentes de Andalucía,37.46409,-5.34615
+312,Fuerte del Rey,37.87492,-3.88389
+313,Galaroza,37.92864,-6.7073
+314,Galera,37.74262,-2.55175
+315,Garrucha,37.18141,-1.82252
+316,Gaucín,36.51784,-5.31581
+317,Gádor,36.95322,-2.49254
+318,Génave,38.43062,-2.7331
+319,Gérgal,37.11886,-2.54012
+320,Gójar,37.10456,-3.60565
+321,Güéjar-Sierra,37.15994,-3.43863
+322,Güevéjar,37.25759,-3.59691
+323,Gelves,37.33481,-6.02601
+324,Genalguacil,36.54546,-5.23572
+325,Gerena,37.52957,-6.15479
+326,Gibraleón,37.37628,-6.96895
+327,Gilena,37.2515,-4.91442
+328,Gines,37.38647,-6.07729
+329,Gobernador,37.47845,-3.32119
+330,Gor,37.36937,-2.97016
+331,Granada,37.18817,-3.60667
+332,Grazalema,36.76018,-5.36839
+333,Guadahortuna,37.55711,-3.39859
+334,Guadalcanal,38.1,-5.81667
+335,Guadalcázar,37.75738,-4.94387
+336,Guadix,37.29932,-3.13922
+337,Gualchos,36.74467,-3.39079
+338,Guaro,36.6563,-4.83433
+339,Guarromán,38.18282,-3.68697
+340,Guillena,37.54262,-6.05626
+341,Herrera,37.36396,-4.84979
+342,Higuera de Arjona,37.97064,-3.99061
+343,Higuera de Calatrava,37.79848,-4.15737
+344,Higuera de la Sierra,37.83333,-6.45
+345,Hinojales,38,-6.58333
+346,Hinojares,37.71586,-2.99769
+347,Hinojos,37.29173,-6.37872
+348,Hinojosa del Duque,38.50057,-5.14651
+349,Hornachuelos,37.83333,-5.23333
+350,Huécija,36.96804,-2.60941
+351,Huélago,37.41972,-3.26226
+352,Huéneja,37.1766,-2.95024
+353,Huércal de Almería,36.88507,-2.4376
+354,Huércal-Overa,37.38918,-1.943
+355,Huéscar,37.81104,-2.54116
+356,Huétor Santillán,37.22091,-3.51634
+357,Huétor Vega,37.14529,-3.56963
+358,Huétor-Tájar,37.19834,-4.04692
+359,Huelma,37.64784,-3.45985
+360,Huelva,37.26638,-6.94004
+361,Huesa,37.76434,-3.07639
+362,Humilladero,37.1139,-4.70298
+363,Ibros,38.02106,-3.50313
+364,Igualeja,36.63208,-5.12188
+365,Illar,36.98562,-2.63871
+366,Illora,37.28771,-3.88109
+367,Instinción,36.99344,-2.66046
+368,Isla Cristina,37.2,-7.31667
+369,Islantilla,37.20572,-7.23742
+370,Istán,36.58273,-4.94956
+371,Iznalloz,37.39258,-3.52762
+372,Iznate,36.78333,-4.18333
+373,Iznatoraf,38.15706,-3.03242
+374,Iznájar,37.25766,-4.30836
+375,Jaén,37.76922,-3.79028
+376,Jabalquinto,38.01935,-3.72512
+377,Jabugo,37.91622,-6.72968
+378,Jamilena,37.74717,-3.91433
+379,Jayena,36.9492,-3.82313
+380,Jérez del Marquesado,37.18382,-3.15961
+381,Jódar,37.84064,-3.35262
+382,Júzcar,36.62442,-5.16971
+383,Jerez de la Frontera,36.68645,-6.13606
+384,Jimena,37.84157,-3.4771
+385,Jimena de la Frontera,36.43517,-5.45387
+386,Jimera de Líbar,36.65119,-5.27412
+387,Jubrique,36.56475,-5.2156
+388,Jun,37.22083,-3.59407
+389,Juviles,36.94879,-3.22586
+390,La Algaba,37.46325,-6.01113
+391,La Antilla,37.20709,-7.20909
+392,La Campana,37.56891,-5.4267
+393,La Carlota,37.67359,-4.93122
+394,La Carolina,38.27559,-3.61535
+395,La Gangosa Vistasol,36.80581,-2.62174
+396,La Guardia de Jaén,37.74303,-3.69312
+397,La Herradura,36.73491,-3.7376
+398,La Iruela,37.91986,-2.99659
+399,La Lantejuela,37.3535,-5.22477
+400,La Línea de la Concepción,36.16809,-5.34777
+401,La Luisiana,37.52602,-5.24883
+402,La Mojonera,37.29233,-2.4373
+403,La Palma del Condado,37.38605,-6.55231
+404,La Puebla de Cazalla,37.22155,-5.31153
+405,La Puebla de los Infantes,37.7809,-5.38837
+406,La Puebla del Río,37.26787,-6.06264
+407,La Puerta de Segura,38.35293,-2.73956
+408,La Rambla,37.6076,-4.73962
+409,La Rinconada,37.48613,-5.98091
+410,La Roda de Andalucía,37.20381,-4.77802
+411,La Victoria,37.68126,-4.85199
+412,Lanjarón,36.91853,-3.4818
+413,Lanteira,37.16871,-3.13823
+414,Laroya,37.29771,-2.33419
+415,Larva,37.76069,-3.20269
+416,Las Cabezas de San Juan,36.9838,-5.93933
+417,Las Gabias,37.13548,-3.67029
+418,Laujar de Andarax,36.99516,-2.89033
+419,Láchar,37.19519,-3.83277
+420,Lúcar,37.40035,-2.42496
+421,Lújar,36.78831,-3.404
+422,Lebrija,36.92077,-6.07529
+423,Lentegí,36.83613,-3.67426
+424,Lepe,37.25482,-7.20433
+425,Linares,38.09519,-3.63602
+426,Linares de la Sierra,37.87963,-6.62321
+427,Lobras,36.92849,-3.2123
+428,Loja,37.16887,-4.15129
+429,Lopera,37.94542,-4.21463
+430,Lora de Estepa,37.26926,-4.82759
+431,Lora del Río,37.65896,-5.52751
+432,Los Barrios,36.18482,-5.49213
+433,Los Corrales,37.09918,-4.98429
+434,Los Molares,37.15704,-5.71802
+435,Los Palacios y Villafranca,37.16181,-5.92433
+436,Los Villares,37.69146,-3.81868
+437,Lubrín,37.21538,-2.06677
+438,Lucainena de las Torres,37.04037,-2.20095
+439,Lucena,37.40881,-4.48522
+440,Lucena del Puerto,37.30396,-6.72926
+441,Lugros,37.22942,-3.2415
+442,Lupión,37.99653,-3.54699
+443,Luque,37.55797,-4.27974
+444,Macael,37.33318,-2.30087
+445,Mairena del Alcor,37.37301,-5.74951
+446,Mairena del Aljarafe,37.34461,-6.06391
+447,Mancha Real,37.78627,-3.61226
+448,Manilva,36.37645,-5.25026
+449,Manzanilla,37.38987,-6.43295
+450,Maracena,37.20764,-3.63493
+451,María,37.71023,-2.16454
+452,Marbella,36.51543,-4.88583
+453,Marchal,37.29639,-3.20353
+454,Marchena,37.329,-5.41681
+455,Marinaleda,37.3712,-4.95949
+456,Marmolejo,38.04549,-4.17029
+457,Martín de la Jara,37.10867,-4.96347
+458,Martos,37.72107,-3.97264
+459,Mazagón,37.13749,-6.82697
+460,Málaga,36.72016,-4.42034
+461,Medina Sidonia,36.45695,-5.92717
+462,Mengibar,37.96978,-3.80884
+463,Mijas,36.59575,-4.63728
+464,Moclín,37.33959,-3.78651
+465,Moclinejo,36.77134,-4.25514
+466,Moguer,37.27559,-6.83851
+467,Mojacar,37.1402,-1.85102
+468,Mollina,37.12534,-4.65686
+469,Molvízar,36.78592,-3.60783
+470,Monachil,37.1332,-3.53724
+471,Monda,36.63027,-4.83192
+472,Montalbán de Córdoba,37.57996,-4.74935
+473,Montefrío,37.32308,-4.00898
+474,Montejaque,36.73684,-5.2499
+475,Montejicar,37.57223,-3.50527
+476,Montellano,36.99531,-5.57145
+477,Montemayor,37.6479,-4.69779
+478,Montilla,37.58627,-4.63805
+479,Montillana,37.50168,-3.67368
+480,Montizón,38.34249,-3.10404
+481,Montoro,38.02409,-4.3834
+482,Monturque,37.47186,-4.58164
+483,Moraleda de Zafayona,37.16723,-3.96505
+484,Morón de la Frontera,37.12084,-5.45403
+485,Moriles,37.4367,-4.60761
+486,Motril,36.75066,-3.5179
+487,Murtas,36.88504,-3.10945
+488,Navas de San Juan,38.18382,-3.31598
+489,Níjar,36.96655,-2.20595
+490,Nívar,37.25909,-3.57768
+491,Nerja,36.75278,-3.8744
+492,Nerva,37.69627,-6.54967
+493,Niebla,37.36213,-6.67894
+494,Nigüelas,36.9776,-3.53949
+495,Noalejo,37.53017,-3.65615
+496,Nueva-Carteya,37.5863,-4.46759
+497,Obejo,38.13265,-4.80018
+498,Ogíjares,37.11913,-3.60772
+499,Ohanes,37.03861,-2.74524
+500,Ojén,36.56486,-4.85561
+501,Olivares,37.41802,-6.15603
+502,Olula de Castro,37.17475,-2.4743
+503,Olula del Río,37.35445,-2.29754
+504,Olvera,36.93418,-5.26678
+505,Orce,37.7212,-2.47752
+506,Orcera,38.31742,-2.66487
+507,Oria,37.4853,-2.29292
+508,Osuna,37.2376,-5.10311
+509,Otívar,36.81582,-3.67979
+510,Otura,37.08846,-3.63321
+511,Padul,37.02462,-3.62678
+512,Padules,36.99813,-2.77367
+513,Palenciana,37.24851,-4.58261
+514,Palma del Río,37.70024,-5.28121
+515,Palomares del Río,37.32225,-6.05863
+516,Palos de la Frontera,37.23457,-6.89471
+517,Pampaneira,36.94015,-3.36096
+518,Paradas,37.29047,-5.49703
+519,Parauta,36.65629,-5.12916
+520,Partaloa,37.40764,-2.22526
+521,Paterna de Rivera,36.52246,-5.86578
+522,Paterna del Campo,37.41948,-6.40248
+523,Paterna del Río,37.02222,-2.95343
+524,Paymogo,37.73999,-7.34499
+525,Pórtugos,36.94193,-3.31066
+526,Peal de Becerro,37.91338,-3.12148
+527,Peñaflor,37.70892,-5.34504
+528,Peñarroya-Pueblonuevo,38.3,-5.26667
+529,Pedrera,37.22604,-4.8942
+530,Pedro Abad,37.96686,-4.4556
+531,Pedro Martínez,37.5029,-3.23134
+532,Pedroche,38.42848,-4.76325
+533,Pegalajar,37.74008,-3.64946
+534,Peligros,37.23231,-3.62901
+535,Periana,36.92931,-4.19163
+536,Piñar,37.44457,-3.43861
+537,Pilas,37.30337,-6.30097
+538,Pinos Genil,37.16346,-3.50215
+539,Pinos Puente,37.25109,-3.74967
+540,Pizarra,36.76543,-4.70833
+541,Polícar,37.25759,-3.23375
+542,Polopos,36.79466,-3.29816
+543,Porcuna,37.87102,-4.18501
+544,Posadas,37.80205,-5.10726
+545,Pozo Alcón,37.70256,-2.93367
+546,Pozoblanco,38.37906,-4.84827
+547,Prado del Rey,36.78756,-5.55589
+548,Priego de Córdoba,37.43807,-4.19523
+549,Province of Córdoba,38,-4.83333
+550,Provincia de Cádiz,36.5,-5.75
+551,Provincia de Granada,37.25,-3.25
+552,Provincia de Huelva,37.66667,-7
+553,Provincia de Jaén,38,-3.5
+554,Provincia de Málaga,36.8,-4.75
+555,Provincia de Sevilla,37.44701,-5.69608
+556,Pruna,36.97226,-5.2223
+557,Puebla de Don Fadrique,37.96156,-2.43961
+558,Puebla de Guzmán,37.61427,-7.24878
+559,Puente de Génave,38.35544,-2.8032
+560,Puente-Genil,37.38943,-4.76686
+561,Puerto Real,36.52819,-6.19011
+562,Puerto Serrano,36.92209,-5.54304
+563,Pujerra,36.61274,-5.14979
+564,Pulianas,37.22302,-3.60832
+565,Pulpí,37.41154,-1.74496
+566,Punta Umbría,37.18213,-6.96605
+567,Purchena,37.34744,-2.3608
+568,Purullena,37.31763,-3.19056
+569,Quéntar,37.19253,-3.46653
+570,Quesada,37.84338,-3.06561
+571,Rágol,36.99523,-2.68178
+572,Ríogordo,36.91727,-4.29318
+573,Retamar,36.8332,-2.31597
+574,Rincón de la Victoria,36.71715,-4.27583
+575,Rioja,36.94508,-2.46302
+576,Ronda,36.74231,-5.16709
+577,Roquetas de Mar,36.76419,-2.61475
+578,Rosal de la Frontera,37.96754,-7.21889
+579,Rota,36.62545,-6.3622
+580,Rubite,36.80947,-3.34816
+581,Rus,38.04759,-3.46254
+582,Rute,37.3269,-4.36827
+583,Sabiote,38.06916,-3.31448
+584,Salar,37.15036,-4.06576
+585,Salares,36.85463,-4.02434
+586,Salobreña,36.74277,-3.58717
+587,Salteras,37.4206,-6.11049
+588,San Bartolomé de la Torre,37.44515,-7.10597
+589,San Enrique de Guadiaro,36.30475,-5.29095
+590,San Fernando,36.4759,-6.19817
+591,San José,36.76048,-2.10912
+592,San José del Valle,36.60554,-5.79895
+593,San Juan de Aznalfarache,37.35813,-6.03731
+594,San Juan del Puerto,37.31667,-6.84139
+595,San Nicolás del Puerto,38,-5.65
+596,San Pedro de Alcántara,36.48839,-4.99123
+597,San Roque,36.21067,-5.38415
+598,San Sebastián de los Ballesteros,37.65376,-4.82409
+599,San Silvestre de Guzmán,37.3877,-7.34908
+600,Sanlúcar de Barrameda,36.77808,-6.3515
+601,Sanlúcar de Guadiana,37.47268,-7.46546
+602,Sanlúcar la Mayor,37.38758,-6.20346
+603,Santa Ana la Real,37.86245,-6.72385
+604,Santa Bárbara de Casa,37.79665,-7.18735
+605,Santa Elena,38.34162,-3.53953
+606,Santa Eufemia,38.6,-4.9
+607,Santa Fe de Mondújar,36.97479,-2.53126
+608,Santa Olalla del Cala,37.9,-6.21667
+609,Santaella,37.56294,-4.84362
+610,Santafé,37.18856,-3.71887
+611,Santiago de Calatrava,37.75382,-4.17093
+612,Santiponce,37.43553,-6.04106
+613,Santisteban del Puerto,38.24829,-3.20762
+614,Santo Tomé,38.02861,-3.10092
+615,Sayalonga,36.79819,-4.01325
+616,Sedella,36.86232,-4.03314
+617,Segura de la Sierra,38.29777,-2.65229
+618,Serón,37.34485,-2.50913
+619,Setenil de las Bodegas,36.86397,-5.18177
+620,Sevilla,37.38283,-5.97317
+621,Sierra de Yeguas,37.1242,-4.86773
+622,Sierro,37.32237,-2.39844
+623,Siles,38.38983,-2.5819
+624,Somontín,37.39176,-2.38828
+625,Soportújar,36.92863,-3.40542
+626,Sorbas,37.09761,-2.12349
+627,Sorihuela del Guadalimar,38.24062,-3.0536
+628,Sorvilán,36.79505,-3.26769
+629,Suflí,37.33866,-2.38817
+630,Tabernas,37.04992,-2.39084
+631,Tahal,37.22797,-2.2847
+632,Tarifa,36.01393,-5.60695
+633,Tíjola,37.34606,-2.43326
+634,Teba,36.98358,-4.91913
+635,Terque,36.98393,-2.59679
+636,Tocina,37.60904,-5.73403
+637,Tolox,36.68721,-4.90511
+638,Tomares,37.37281,-6.04589
+639,Torre Alháquime,36.91588,-5.23381
+640,Torre del Campo,37.77051,-3.89731
+641,Torre del Mar,36.742,-4.09291
+642,Torre-Cardela,37.50456,-3.35609
+643,Torreblascopedro,37.9975,-3.6378
+644,Torrecampo,38.46667,-4.66667
+645,Torredonjimeno,37.76748,-3.95776
+646,Torremolinos,36.62035,-4.49976
+647,Torrenueva,36.70396,-3.48971
+648,Torreperogil,38.0354,-3.28998
+649,Torres,37.78537,-3.50902
+650,Torrox,36.75793,-3.95233
+651,Totalán,36.76526,-4.29707
+652,Trebujena,36.87075,-6.17586
+653,Trevélez,37.00037,-3.26545
+654,Trigueros,37.38606,-6.8268
+655,Turre,37.15224,-1.89497
+656,Turrillas,37.02948,-2.26607
+657,Ubrique,36.67777,-5.446
+658,Ugíjar,36.96087,-3.05523
+659,Uleila del Campo,37.1846,-2.20491
+660,Umbrete,37.36881,-6.15847
+661,Urrácal,37.3974,-2.36485
+662,Utrera,37.18516,-5.78093
+663,Valdés,36.75835,-4.24235
+664,Valdelarco,37.94877,-6.68202
+665,Valdepeñas de Jaén,37.58903,-3.8145
+666,Valderrubio,37.23378,-3.82005
+667,Valdezorras,37.42939,-5.92629
+668,Valencina de la Concepción,37.41618,-6.07422
+669,Valenzuela,37.7756,-4.22038
+670,Valverde del Camino,37.57511,-6.75432
+671,Válor,36.99618,-3.08287
+672,Vélez de Benaudalla,36.83244,-3.51539
+673,Vélez-Blanco,37.69178,-2.09587
+674,Vélez-Málaga,36.78107,-4.10266
+675,Vícar,36.83155,-2.64273
+676,Víznar,37.23149,-3.55382
+677,Vejer de la Frontera,36.25213,-5.96717
+678,Velefique,37.19407,-2.40155
+679,Velez Rubio,37.64844,-2.07686
+680,Ventas de Huelma,37.0684,-3.81983
+681,Vera,37.24345,-1.85905
+682,Viator,36.89006,-2.42695
+683,Viñuela,36.86307,-4.14124
+684,Vilches,38.20695,-3.51025
+685,Villa del Río,37.98108,-4.29003
+686,Villablanca,37.30239,-7.34413
+687,Villacarrillo,38.1156,-3.0848
+688,Villafranca de Córdoba,37.96257,-4.54547
+689,Villaharta,38.13333,-4.9
+690,Villalba del Alcor,37.39731,-6.47461
+691,Villaluenga del Rosario,36.69644,-5.38601
+692,Villamanrique de la Condesa,37.24481,-6.30665
+693,Villamartín,36.85979,-5.64485
+694,Villanueva de Algaidas,37.1835,-4.45032
+695,Villanueva de Córdoba,38.32277,-4.62873
+696,Villanueva de la Reina,38.00432,-3.91603
+697,Villanueva de las Cruces,37.62783,-7.02359
+698,Villanueva de las Torres,37.55719,-3.08868
+699,Villanueva de los Castillejos,37.4994,-7.29118
+700,Villanueva de San Juan,37.04955,-5.1754
+701,Villanueva de Tapia,37.18276,-4.33383
+702,Villanueva del Ariscal,37.39623,-6.14077
+703,Villanueva del Arzobispo,38.16842,-3.00742
+704,Villanueva del Duque,38.38333,-5
+705,Villanueva del Río y Minas,37.65502,-5.71369
+706,Villanueva del Rosario,36.99679,-4.36535
+707,Villanueva del Trabuco,37.02832,-4.33891
+708,Villaralto,38.45,-4.98333
+709,Villardompardo,37.83735,-4.00051
+710,Villarrasa,37.38849,-6.60641
+711,Villarrubia,37.85,-4.9
+712,Villaverde del Río,37.58919,-5.87443
+713,Villaviciosa de Córdoba,38.08333,-5.01667
+714,Yunquera,36.73252,-4.92122
+715,Zafarraya,36.97554,-4.14442
+716,Zagra,37.25561,-4.16905
+717,Zahara,36.84055,-5.39128
+718,Zahara de los Atunes,36.1369,-5.84591
+719,Zalamea la Real,37.68012,-6.65977
+720,Zújar,37.54285,-2.84197
+721,Zubia,37.11906,-3.584
+722,Zufre,37.83333,-6.33333
+723,Zuheros,37.54332,-4.31531
+724,Zurgena,37.34218,-2.03985
